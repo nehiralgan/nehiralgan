@@ -10,7 +10,7 @@ Currently, I am interested in **data analysis, machine learning, visual feature 
 
 ## **🚀 Recent Repositories**
 
-fingerprint-recognition-cnn
+[fingerprint-recognition-cnn](https://github.com/nehiralgan/fingerprint-recognition-cnn)
 
 Hybrid Fingerprint Recognition System Using CNN and Classical Image Processing                                                                              
 Liveness detection, minutiae matching, and visualization
