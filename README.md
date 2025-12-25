@@ -8,6 +8,9 @@ I have experience developing systems that combine classical data processing meth
 
 Currently, I am interested in **data analysis, machine learning, visual feature extraction,** and **trustworthy AI systems**, especially in scenarios involving limited datasets and explainable model behavior.
 
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nehir-algan-734348352/)
+
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
@@ -16,6 +19,11 @@ Currently, I am interested in **data analysis, machine learning, visual feature 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🚀 Recent Repositories
 
@@ -24,5 +32,4 @@ Currently, I am interested in **data analysis, machine learning, visual feature 
 Hybrid Fingerprint Recognition System Using CNN and Classical Image Processing                                                                              
 Liveness detection, minutiae matching, and visualization
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nehir-algan-734348352/)
+
