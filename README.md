@@ -8,9 +8,21 @@ I have experience developing systems that combine classical data processing meth
 
 Currently, I am interested in **data analysis, machine learning, visual feature extraction,** and **trustworthy AI systems**, especially in scenarios involving limited datasets and explainable model behavior.
 
-## **🚀 Recent Repositories**
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🚀 Recent Repositories
 
 [fingerprint-recognition-cnn](https://github.com/nehiralgan/fingerprint-recognition-cnn)
 
 Hybrid Fingerprint Recognition System Using CNN and Classical Image Processing                                                                              
 Liveness detection, minutiae matching, and visualization
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nehir-algan-734348352/)
